@@ -9,15 +9,15 @@
 
 ### Common commands:
 
-auto() - Run all remaining steps automatically.
+- auto() - Run all remaining steps automatically.
 
-next() - Run one step.
+- next() - Run one step.
 
-list() - View all puzzle steps.
+- list() - View all puzzle steps.
 
-jumpTo(n) - Jump directly to step n.
+- jumpTo(n) - Jump directly to step n.
 
-stop() - Emergency stop.
+- stop() - Emergency stop.
 
 Note: do not use the mouse wheel to scroll the page while simulated dragging is running, or items may fly around unexpectedly.
 
